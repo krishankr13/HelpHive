@@ -6,4 +6,4 @@ The real-time interaction component is particularly compelling, as it enables qu
 
 From a development perspective, the project demonstrates solid planning and a meaningful problem statement. Moving forward, it would be interesting to see enhancements around scalability, user verification, and trust mechanisms (such as ratings or reviews) to ensure safety and reliability within the platform.
 
-Overall, HelpHive is a promising initiative with strong social value. With continued development and thoughtful feature expansion, it has the potential to become a highly impactful tool for community support and coordination.
+Overall, HelpHive is a promising initiative with strong social value.
